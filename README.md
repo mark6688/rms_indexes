@@ -1,0 +1,2 @@
+# rms_indexes
+第一次创建提交elasticsearch的damo
